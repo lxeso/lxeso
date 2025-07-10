@@ -127,13 +127,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Seol's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxeso&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxeso&layout=compact)
-
----
-
 ## 🌱 함께 일하고 싶은 개발자
 
 저는 문제의 본질을 정확히 파악하고, 논리적인 접근으로 성능 한계를 돌파하며,  
